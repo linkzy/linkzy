@@ -1,6 +1,6 @@
 
 <!--
-**juliosfigueiredo/juliosfigueiredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**linkzy/linkzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="#">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliosfigueiredo&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliosfigueiredo&layout=compact&langs_count=7&theme=light"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=linkzy&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linkzy&layout=compact&langs_count=7&theme=light"/>
   </a>
 </div>
 <div align="center" style="display: inline_block"><br>
